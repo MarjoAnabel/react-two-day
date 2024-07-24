@@ -16,4 +16,3 @@ const GretingFun = (props) => {
 }
 
 export default GretingFun
- //por terminar
